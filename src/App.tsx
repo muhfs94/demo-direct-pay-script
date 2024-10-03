@@ -1,6 +1,6 @@
 // src/App.tsx
 import React from 'react';
-import CheckoutForm from './components/CheckoutForm';
+import CheckoutForm from './CheckoutForm';
 import './App.css';
 
 const App: React.FC = () => {
