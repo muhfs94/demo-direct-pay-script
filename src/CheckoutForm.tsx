@@ -15,6 +15,7 @@ interface PayOptions {
   onClose?: (paramProps: ParamProps) => void;
 }
 
+
 declare global {
   interface Window {
     PWFDirectPay: {
